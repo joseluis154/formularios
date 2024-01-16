@@ -1,0 +1,23 @@
+form{
+    width: 30%;
+    padding: 3%;
+    border-radius: 10px;
+    margin: auto;
+    background-color: aqua;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10%;
+}
+
+label{
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.login{
+    border: 1px solid black;
+    padding: 15px 5px;
+}
